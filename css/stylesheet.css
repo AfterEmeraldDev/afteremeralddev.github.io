@@ -1,4 +1,4 @@
-btn-ae {
+.btn-ae {
     font-family: helvetica;
     background-color: #ff9d00;
     color: #FFFFFF;
@@ -8,6 +8,6 @@ btn-ae {
     cursor: pointer;
 }
 
-btn-ae:hover {
+.btn-ae:hover {
     background-color: #ef8d00;
 }
