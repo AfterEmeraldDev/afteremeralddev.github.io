@@ -9,6 +9,14 @@ html {
     width: 100%
 }
 
+body {
+	font-size: 1.05em;
+	line-height: 1.25em;
+	font-family: Helvetica Neue, Helvetica, Arial;
+	background: #f9f9f9;
+	color: #555;
+}
+
 table, th, td {
    border: 1px solid #ffbb00;
 }
