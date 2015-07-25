@@ -19,7 +19,7 @@ html, body {
 body > div {
     height: 100%;
     /*overflow: scroll;
-    */-webkit-overflow-scrolling: touch;
+    -webkit-overflow-scrolling: touch;*/
 }
 
 a {
