@@ -1,6 +1,7 @@
 html {
     font-family: verdana, trebuchet, serif, monospace;
     font-size: 100%;
+    min-width: 100%;
 }
 
 table, th, td {
