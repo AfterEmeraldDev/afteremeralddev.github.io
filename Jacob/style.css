@@ -142,9 +142,8 @@ a:not(.navbar-item):not(.menu-icon):hover {
     nav ul, nav:active ul {
 		display: none;
 		position: absolute;
-		padding: 20px;
-		right: 15px;
-		top: 15px;
+		right: 0px;
+		top: 25px;
 		width: 50%;
 	}
 
